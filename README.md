@@ -1,4 +1,4 @@
-From 2048 To ABCD
+# From 2048 To ABCD
 
 # Introduction
 
@@ -11,7 +11,7 @@ Use the arrow keys.
 
 There is no win. Once you get "K"(=2048), you can try further to get "L"(=4096)...
 
-There is no lost, either. If you have filled all squares and find no more match, just move on, and the up-left corner will changes. 
+There is no lost, either. If you have filled all squares and find no more match, just move on, and the up-left corner will change. 
 
 
 # How to download
