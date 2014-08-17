@@ -16,12 +16,12 @@ There is no lost, either. If you have filled all squares and find no more match,
 
 # How to download
 
-Windows user can download zip file "From 2048 To ABCD.zip" in this root directory. Mac OS, Linux and other users are invited to compile it yourself.
+Windows user can download zip file "From 2048 To ABCD.zip" in this root directory. Mac OS, Linux and other users are invited to compile it themselves.
 
-In order to compile it, you will need C++ compiler and SFML (can be download at http://sfml-dev.org/
-You should also compile it with C++11 flag.
+In order to compile it, C++ compiler and SFML (can be download at http://sfml-dev.org/) are required.
+C++11 flag is required during the compilation.
 
-I rushed this game out within only 2 days. If you find the code is not optimal, please do not laugh at me. I really don't have much time for that. However, your advice and suggestion is still precious to me.
+I rushed this game out within only 2 days. If you find the code is not optimal, please do not laugh at me. I really do not have much time for that. However, your advice and suggestion is still precious to me.
 
 
 # Licence 
