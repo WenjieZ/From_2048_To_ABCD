@@ -33,4 +33,4 @@ GPLv2
 
 # Bug report
 
-contact@zhengwenjie.eu
+wenjie.zheng@lip6.fr
